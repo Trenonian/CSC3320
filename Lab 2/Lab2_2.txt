@@ -1,0 +1,50 @@
+cp RealEstate.csv ../public
+pwd
+ls /home/manderson113/public
+cd ../public
+mkdir regular submission/lab2 submission/lab3
+ls
+rmdir regula
+rmdir regular
+mkdir regular submission submission/lab2 submission/lab3
+ls
+cd submission
+ls
+cd ..
+ls
+mv regular others
+ls
+cd ..
+ls
+cd public
+cp ../Lab2P2 submission/lab2
+cp ../Lab2_P2 submission/lab2
+cp ../Lab2_P2 submission/lab2
+cd submission
+ls
+cd lab2
+ls
+cd..
+cd ..
+ls
+cd public
+ls
+cp -r ../Lab2_P2 submission/lab2
+cd submission
+ls
+cd lab2
+ls
+cd Lab2_P2
+ls
+cd ..
+rmdir ../Lab2_P2
+ls
+cd ../Lab2_P2
+ls
+cd ../public
+rm -r ../Lab2_P2
+cd ..
+ls
+history 50
+ls
+history 50 > history.txt
